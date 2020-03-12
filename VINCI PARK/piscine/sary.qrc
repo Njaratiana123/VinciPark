@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>de.jpg</file>
+    <file>expences-button-png-hi.png</file>
+    <file>voiture.png</file>
+    <file>parking-427955_1920.jpg</file>
+    <file>vinci.jpg</file>
+  </qresource>
+</RCC>
